@@ -1,0 +1,1 @@
+# CleanArchitecture.AspNetCore.WebApi.Template
